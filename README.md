@@ -12,7 +12,7 @@
 
 <div class="music-player">
 
-<img src="cover.jpg" class="cover">
+<img src="lany.jpg" class="cover">
 
 <h2>Last Forever</h2>
 <h3>LANY</h3>
@@ -37,7 +37,3 @@
 
 </div>
 
-<script src="script.js"></script>
-
-</body>
-</html>
